@@ -1,13 +1,13 @@
-<h1 align="center">As-salamu alaykum 🤝, I'm Muhammad Rashed</h1>
+<h1 align="center">As-salamu alaykum 🤝, I'm Md. Rashed Jaman Raju</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 ![profile image](./image/banner.png)
 
 # 💫 About Me:
+
 I specialize in building responsive, user-friendly web interfaces that deliver exceptional user experiences. As a Front-End Developer, I have expertise in HTML, CSS, JavaScript, and React, along with experience in Firebase Authentication and Git and also Familiar to Node.js, Express.js, MongoDB and Next.js. I am passionate about crafting modern, scalable, and secure web solutions with a strong focus on usability and innovation. Beyond coding, I love reading books and exploring new places through travel, which inspires my creativity and fuels my passion for continuous learning. With a keen eye for detail, I thrive on transforming ideas into impactful digital experiences. Let's connect and collaborate to create something extraordinary! With a keen eye for detail, I thrive on transforming ideas into impactful digital experiences. Let's connect and collaborate to create something extraordinary!
 
 🔭 I’m working as Frontend Developer<br>🌱I'm currently learning Next.js, Express.js, Node.js, Redux<br>⚡In my free time I like to read and travel
-
 
 ## 🌐 Socials:
 
@@ -34,13 +34,17 @@ I specialize in building responsive, user-friendly web interfaces that deliver e
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrashed21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ## 🏆 Achievements
+
 ![](https://github-profile-trophy.vercel.app/?username=mrashed21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=mrashed21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
@@ -49,7 +53,8 @@ I specialize in building responsive, user-friendly web interfaces that deliver e
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mrashed21&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mrashed21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
