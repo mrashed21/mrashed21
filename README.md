@@ -23,14 +23,17 @@ I'm a **Full Stack (MERN) Developer** with hands-on experience building scalable
 
 I've worked across **ERP solutions, SaaS platforms, multi-vendor eCommerce, restaurant & POS software, bus booking systems, and admin dashboards** — shipping reliable products that improve real business operations and user experience.
 
-```js
-const rashed = {
-  role: "Full Stack (MERN) Developer",
-  focus: ["Clean Architecture", "Scalable Systems", "DX & Performance"],
-  currentlyLearning: ["Next.js (advanced)", "Docker", "System Design"],
-  funFact: "Reads books & travels when not shipping code",
-};
-```
+> [!NOTE]
+> ## 👨‍💻 `developer_profile.js`
+>
+> ```js
+> const mrashed21 = {
+>   role: "Full Stack (MERN) Developer",
+>   focus: ["Clean Architecture", "Scalable Systems", "DX & Performance"],
+>   currentlyLearning: ["Next.js (advanced)", "Docker", "System Design"],
+>   funFact: "Reads books & travels when not shipping code",
+> };
+> ```
 
 <br>
 
@@ -119,8 +122,8 @@ const rashed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrashed21&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=9CA3AF&border_color=30363D&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashed21&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&text_color=9CA3AF&border_color=30363D&hide_border=false" width="35%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mrashed21&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=9CA3AF&border_color=30363D&hide_border=false" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashed21&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&text_color=9CA3AF&border_color=30363D&hide_border=false" width="35%" /> -->
 
 <img src="https://streak-stats.demolab.com/?user=mrashed21&theme=tokyonight&background=0D1117&stroke=30363D&ring=3B82F6&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=9CA3AF&dates=9CA3AF" width="49%" />
 

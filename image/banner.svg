@@ -317,6 +317,64 @@
     </g>
   </g>
 
+  <!-- Floating Clock Window -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="7s" repeatCount="indefinite"/>
+    <rect x="1175" y="295" width="280" height="210" rx="14" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
+    <g>
+      <rect x="1175" y="295" width="280" height="28" fill="#FFFFFF" opacity="0.03" rx="14"/>
+      <circle cx="1191" cy="309" r="4" fill="#FF5F56"/>
+      <circle cx="1205" cy="309" r="4" fill="#FFBD2E"/>
+      <circle cx="1219" cy="309" r="4" fill="#27C93F"/>
+      <text x="1315" y="313" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="11" font-weight="600" fill="#9CA3AF" letter-spacing="0.5">DHAKA (GMT+6)</text>
+      
+      <!-- Clock Face -->
+      <circle cx="1315" cy="385" r="54" fill="#0D1117" stroke="url(#borderGrad)" stroke-width="2"/>
+      
+      <!-- Clock markers -->
+      <g stroke="#4B5563" stroke-width="2" stroke-linecap="round">
+        <line x1="1315" y1="331" x2="1315" y2="338"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(30, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(60, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(90, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(120, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(150, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(180, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(210, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(240, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(270, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(300, 1315, 385)"/>
+        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(330, 1315, 385)"/>
+      </g>
+      
+      <!-- Hands (Initialized to 15:49:48) -->
+      <g transform="translate(1315,385)">
+        <!-- Hour Hand -->
+        <g>
+          <animateTransform attributeName="transform" type="rotate" from="114.5" to="474.5" dur="43200s" repeatCount="indefinite"/>
+          <line x1="0" y1="0" x2="0" y2="-26" stroke="#E5E7EB" stroke-width="3.5" stroke-linecap="round"/>
+        </g>
+        <!-- Minute Hand -->
+        <g>
+          <animateTransform attributeName="transform" type="rotate" from="298.8" to="658.8" dur="3600s" repeatCount="indefinite"/>
+          <line x1="0" y1="0" x2="0" y2="-40" stroke="#9CA3AF" stroke-width="2.5" stroke-linecap="round"/>
+        </g>
+        <!-- Second Hand -->
+        <g>
+          <animateTransform attributeName="transform" type="rotate" from="288" to="648" dur="60s" repeatCount="indefinite"/>
+          <line x1="0" y1="8" x2="0" y2="-48" stroke="#06B6D4" stroke-width="1.5" stroke-linecap="round"/>
+        </g>
+        <!-- Center Dot -->
+        <circle cx="0" cy="0" r="4" fill="#E5E7EB"/>
+        <circle cx="0" cy="0" r="1.5" fill="#06B6D4"/>
+      </g>
+      
+      <!-- Digital Time & Date -->
+      <text x="1315" y="470" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="18" font-weight="700" fill="#E5E7EB" letter-spacing="1.5">15:49:48</text>
+      <text x="1315" y="488" text-anchor="middle" font-family="'Segoe UI','Inter',sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="0.8">TUESDAY, 07 JUL 2026</text>
+    </g>
+  </g>
+
   <!-- Server stack -->
   <g>
     <rect x="900" y="500" width="130" height="24" rx="6" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1"/>
