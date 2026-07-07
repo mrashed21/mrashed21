@@ -24,14 +24,14 @@ I'm a **Full Stack (MERN) Developer** with hands-on experience building scalable
 I've worked across **ERP solutions, SaaS platforms, multi-vendor eCommerce, restaurant & POS software, bus booking systems, and admin dashboards** — shipping reliable products that improve real business operations and user experience.
 
 > [!NOTE]
-> ## 👨‍💻 `developer_profile.js`
+> ## 👨‍💻 `developer_profile.ts`
 >
 > ```js
 > const mrashed21 = {
 >   role: "Full Stack (MERN) Developer",
 >   focus: ["Clean Architecture", "Scalable Systems", "DX & Performance"],
->   currentlyLearning: ["Next.js (advanced)", "Docker", "System Design"],
->   funFact: "Reads books & travels when not shipping code",
+>   currently_learning: ["Image Searching", "Docker", "System Design"],
+>   fun_fact: "Reads books & travels when not shipping code",
 > };
 > ```
 
