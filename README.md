@@ -23,12 +23,12 @@ I'm a **Full Stack (MERN) Developer** with hands-on experience building scalable
 
 I've worked across **ERP solutions, SaaS platforms, multi-vendor eCommerce, restaurant & POS software, bus booking systems, and admin dashboards** — shipping reliable products that improve real business operations and user experience.
 
-```txt
+```js
 const rashed = {
   role: "Full Stack (MERN) Developer",
   focus: ["Clean Architecture", "Scalable Systems", "DX & Performance"],
   currentlyLearning: ["Next.js (advanced)", "Docker", "System Design"],
-  funFact: "Reads books & travels when not shipping code"
+  funFact: "Reads books & travels when not shipping code",
 };
 ```
 
@@ -38,6 +38,7 @@ const rashed = {
 
 **Frontend**
 
+<p align="left">
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -45,28 +46,35 @@ const rashed = {
 <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 <img src="https://img.shields.io/badge/shadcn/ui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
+</p>
 
 **Backend**
 
+<p align="left">
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase_Auth-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+</p>
 
 **Database**
 
+<p align="left">
 <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
 
 **Tools & Platforms**
 
+<p align="left">
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
 <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+</p>
 
 <br>
 
@@ -114,7 +122,7 @@ const rashed = {
 <img src="https://github-readme-stats.vercel.app/api?username=mrashed21&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=9CA3AF&border_color=30363D&hide_border=false" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrashed21&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&text_color=9CA3AF&border_color=30363D&hide_border=false" width="35%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrashed21&theme=tokyonight&background=0D1117&stroke=30363D&ring=3B82F6&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=9CA3AF&dates=9CA3AF" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=mrashed21&theme=tokyonight&background=0D1117&stroke=30363D&ring=3B82F6&fire=8B5CF6&currStreakLabel=06B6D4&sideLabels=9CA3AF&dates=9CA3AF" width="49%" />
 
 </div>
 
