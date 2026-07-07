@@ -51,7 +51,6 @@
     <clipPath id="avatarClip"><circle cx="700" cy="68" r="36"/></clipPath>
   </defs>
 
-  <!-- BACKGROUND -->
   <rect width="1600" height="600" fill="#0D1117"/>
   <rect width="1600" height="600" fill="url(#gridPattern)"/>
 
@@ -66,7 +65,6 @@
   </circle>
   <circle cx="160" cy="500" r="150" fill="url(#bgGlowBlue)" filter="url(#blurLg)" opacity="0.35"/>
 
-  <!-- floating particles -->
   <g>
     <circle cx="150" cy="110" r="2" fill="#3B82F6" opacity="0.6"><animate attributeName="cy" values="110;85;110" dur="6s" repeatCount="indefinite"/></circle>
     <circle cx="700" cy="180" r="2.2" fill="#06B6D4" opacity="0.5"><animate attributeName="cy" values="180;155;180" dur="7s" repeatCount="indefinite"/></circle>
@@ -77,46 +75,35 @@
     <circle cx="1500" cy="530" r="1.8" fill="#3B82F6" opacity="0.4"><animate attributeName="cy" values="530;508;530" dur="6.8s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- abstract geometric shapes -->
   <circle cx="1520" cy="90" r="26" fill="none" stroke="#8B5CF6" stroke-opacity="0.25" stroke-width="1"/>
   <rect x="1500" y="480" width="30" height="30" fill="none" stroke="#06B6D4" stroke-opacity="0.2" stroke-width="1" transform="rotate(20 1515 495)"/>
   <circle cx="840" cy="380" r="4" fill="none" stroke="#3B82F6" stroke-opacity="0.3" stroke-width="1"/>
 
-  <!-- ================= LEFT SIDE ================= -->
   <g font-family="'Segoe UI','Inter',-apple-system,sans-serif">
-
-    <!-- Avatar -->
-    
-
     <text x="68" y="158" font-size="56" font-weight="800" letter-spacing="-1.5" fill="url(#accentText)">Muhammad Rashed</text>
     <text x="70" y="192" font-size="20" font-weight="600" fill="url(#accentText)">Full Stack (MERN) Developer</text>
 
     <text x="70" y="226" font-size="15" fill="#9CA3AF">Building scalable ERP, SaaS, and eCommerce platforms with clean architecture,</text>
     <text x="70" y="248" font-size="15" fill="#9CA3AF">modern technologies, and secure, production-ready backend systems.</text>
 
-    <!-- CONTACT INFO -->
     <g font-size="13" fill="#9CA3AF" font-family="'Segoe UI','Inter',-apple-system,sans-serif">
-      <!-- mail icon -->
       <g transform="translate(70,265)" stroke="#06B6D4" stroke-width="1.4" fill="none" stroke-linejoin="round" stroke-linecap="round">
         <rect x="0" y="0" width="17" height="13" rx="2"/>
         <path d="M1,2 L8.5,8.5 L16,2"/>
       </g>
       <text x="94" y="276">rashedjaman768@gmail.com</text>
 
-      <!-- phone icon -->
       <g transform="translate(330,265)" stroke="#8B5CF6" stroke-width="1.4" fill="none" stroke-linejoin="round" stroke-linecap="round">
         <path d="M0.5,1 C0.5,0.4 1,0 1.6,0.2 L4,1 C4.6,1.2 4.9,1.9 4.6,2.5 L3.7,4.3 C4.3,5.7 5.4,6.8 6.8,7.4 L8.6,6.5 C9.2,6.2 9.9,6.5 10.1,7.1 L10.9,9.5 C11.1,10.1 10.7,10.6 10.1,10.6 C5,10.8 0.3,6.1 0.5,1 Z"/>
       </g>
       <text x="346" y="276">+880 1781-131905</text>
 
-      <!-- link icon -->
       <g transform="translate(70,287)" stroke="#3B82F6" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round">
         <path d="M6,2.5 L7.5,1 C8.6,-0.1 10.4,-0.1 11.5,1 C12.6,2.1 12.6,3.9 11.5,5 L10,6.5"/>
         <path d="M8,9.5 L6.5,11 C5.4,12.1 3.6,12.1 2.5,11 C1.4,9.9 1.4,8.1 2.5,7 L4,5.5"/>
       </g>
       <text x="94" y="298">mrashed21.me</text>
 
-      <!-- code / github icon -->
       <g transform="translate(330,287)" stroke="#06B6D4" stroke-width="1.5" fill="none" stroke-linejoin="round" stroke-linecap="round">
         <path d="M4.5,1 L0.5,6 L4.5,11"/>
         <path d="M8,1 L12,6 L8,11"/>
@@ -124,9 +111,7 @@
       <text x="352" y="298">github.com/mrashed21</text>
     </g>
 
-    <!-- BADGES -->
     <g font-size="12.5" font-weight="600" fill="#E5E7EB">
-      <!-- Row 1 -->
       <rect x="70" y="316" width="90" height="34" rx="17" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
       <text x="115" y="338" text-anchor="middle">Next.js</text>
 
@@ -145,7 +130,6 @@
       <rect x="595" y="316" width="90" height="34" rx="17" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
       <text x="640" y="338" text-anchor="middle">MongoDB</text>
 
-      <!-- Row 2 -->
       <rect x="70" y="360" width="110" height="34" rx="17" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
       <text x="125" y="382" text-anchor="middle">PostgreSQL</text>
 
@@ -164,7 +148,6 @@
       <rect x="670" y="360" width="80" height="34" rx="17" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
       <text x="710" y="382" text-anchor="middle">Docker</text>
 
-      <!-- Row 3 -->
       <rect x="70" y="404" width="65" height="34" rx="17" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
       <text x="102" y="426" text-anchor="middle">Git</text>
 
@@ -172,7 +155,6 @@
       <text x="192" y="426" text-anchor="middle">REST API</text>
     </g>
 
-    <!-- STAT CARDS -->
     <g>
       <rect x="70" y="478" width="190" height="86" rx="16" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
       <text x="165" y="520" text-anchor="middle" font-size="30" font-weight="800" fill="url(#accentText)">1+</text>
@@ -184,24 +166,18 @@
     </g>
   </g>
 
-  <!-- ================= RIGHT SIDE ================= -->
-
-  <!-- connecting glow lines (drawn first, sit behind windows) -->
   <g fill="none" stroke="url(#lineGrad)" stroke-width="1.3" opacity="0.55">
     <path d="M1050,205 C1000,220 970,260 995,300" />
-    <path d="M1220,300 C1260,300 1300,290 1326,255" />
+    <path d="M1220,300 C1260,295 1300,290 1350,290" />
     <path d="M1030,340 C1000,360 970,400 990,430" />
-    <path d="M1160,318 C1200,360 1260,390 1330,398" />
-    <path d="M1420,300 C1440,330 1440,360 1430,390" />
   </g>
   <circle r="3" fill="#06B6D4">
     <animateMotion path="M1050,205 C1000,220 970,260 995,300" dur="3.2s" repeatCount="indefinite"/>
   </circle>
   <circle r="3" fill="#8B5CF6">
-    <animateMotion path="M1160,318 C1200,360 1260,390 1330,398" dur="4s" repeatCount="indefinite"/>
+    <animateMotion path="M1220,300 C1260,295 1300,290 1350,290" dur="3.4s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- GraphQL / API node network -->
   <g stroke="url(#lineGrad)" stroke-width="1" opacity="0.6" fill="none">
     <line x1="1080" y1="240" x2="1025" y2="192"/>
     <line x1="1080" y1="240" x2="1142" y2="196"/>
@@ -221,7 +197,6 @@
     <circle cx="1082" cy="182" r="5"/>
   </g>
 
-  <!-- React atom (decorative) -->
   <g transform="translate(1180,300)">
     <g>
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="26s" repeatCount="indefinite"/>
@@ -232,26 +207,23 @@
     <circle r="6" fill="#06B6D4"/>
   </g>
 
-  <!-- Database cylinder -->
   <g>
-    <rect x="1326" y="222" width="88" height="62" fill="url(#panelFill)"/>
-    <line x1="1326" y1="222" x2="1326" y2="284" stroke="url(#borderGrad)" stroke-width="1.2"/>
-    <line x1="1414" y1="222" x2="1414" y2="284" stroke="url(#borderGrad)" stroke-width="1.2"/>
-    <line x1="1326" y1="244" x2="1414" y2="244" stroke="#9CA3AF" stroke-opacity="0.15" stroke-width="1"/>
-    <line x1="1326" y1="264" x2="1414" y2="264" stroke="#9CA3AF" stroke-opacity="0.15" stroke-width="1"/>
-    <ellipse cx="1370" cy="222" rx="44" ry="13" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
-    <ellipse cx="1370" cy="284" rx="44" ry="13" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
+    <rect x="1326" y="288" width="88" height="44" fill="url(#panelFill)"/>
+    <line x1="1326" y1="288" x2="1326" y2="332" stroke="url(#borderGrad)" stroke-width="1.2"/>
+    <line x1="1414" y1="288" x2="1414" y2="332" stroke="url(#borderGrad)" stroke-width="1.2"/>
+    <line x1="1326" y1="304" x2="1414" y2="304" stroke="#9CA3AF" stroke-opacity="0.15" stroke-width="1"/>
+    <line x1="1326" y1="318" x2="1414" y2="318" stroke="#9CA3AF" stroke-opacity="0.15" stroke-width="1"/>
+    <ellipse cx="1370" cy="288" rx="44" ry="10" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
+    <ellipse cx="1370" cy="332" rx="44" ry="10" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
   </g>
 
-  <!-- Cloud architecture element -->
   <g fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2">
-    <circle cx="1410" cy="398" r="20"/>
-    <circle cx="1440" cy="386" r="26"/>
-    <circle cx="1472" cy="398" r="18"/>
-    <rect x="1400" y="398" width="88" height="24" rx="12"/>
+    <circle cx="1502" cy="398" r="16"/>
+    <circle cx="1532" cy="386" r="20"/>
+    <circle cx="1562" cy="398" r="14"/>
+    <rect x="1492" y="398" width="86" height="20" rx="10"/>
   </g>
 
-  <!-- Floating Code Editor Window -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-9; 0,0" dur="6.5s" repeatCount="indefinite"/>
     <rect x="880" y="90" width="340" height="215" rx="14" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
@@ -275,7 +247,6 @@
     </g>
   </g>
 
-  <!-- Floating Browser Mockup -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-7; 0,0" dur="7.5s" repeatCount="indefinite"/>
     <rect x="1240" y="100" width="300" height="180" rx="14" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
@@ -295,7 +266,6 @@
     </g>
   </g>
 
-  <!-- Floating Terminal Window -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="8s" repeatCount="indefinite"/>
     <rect x="890" y="350" width="280" height="150" rx="14" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
@@ -317,65 +287,55 @@
     </g>
   </g>
 
-  <!-- Floating Clock Window -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="7s" repeatCount="indefinite"/>
-    <rect x="1175" y="295" width="280" height="210" rx="14" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
+    <rect x="1185" y="345" width="280" height="205" rx="14" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1.2"/>
     <g>
-      <rect x="1175" y="295" width="280" height="28" fill="#FFFFFF" opacity="0.03" rx="14"/>
-      <circle cx="1191" cy="309" r="4" fill="#FF5F56"/>
-      <circle cx="1205" cy="309" r="4" fill="#FFBD2E"/>
-      <circle cx="1219" cy="309" r="4" fill="#27C93F"/>
-      <text x="1315" y="313" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="11" font-weight="600" fill="#9CA3AF" letter-spacing="0.5">DHAKA (GMT+6)</text>
+      <rect x="1185" y="345" width="280" height="28" fill="#FFFFFF" opacity="0.03" rx="14"/>
+      <circle cx="1201" cy="359" r="4" fill="#FF5F56"/>
+      <circle cx="1215" cy="359" r="4" fill="#FFBD2E"/>
+      <circle cx="1229" cy="359" r="4" fill="#27C93F"/>
+      <text x="1325" y="363" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="11" font-weight="600" fill="#9CA3AF" letter-spacing="0.5">DHAKA (GMT+6)</text>
       
-      <!-- Clock Face -->
-      <circle cx="1315" cy="385" r="54" fill="#0D1117" stroke="url(#borderGrad)" stroke-width="2"/>
+      <circle cx="1325" cy="432" r="52" fill="#0D1117" stroke="url(#borderGrad)" stroke-width="2"/>
       
-      <!-- Clock markers -->
       <g stroke="#4B5563" stroke-width="2" stroke-linecap="round">
-        <line x1="1315" y1="331" x2="1315" y2="338"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(30, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(60, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(90, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(120, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(150, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(180, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(210, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(240, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(270, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(300, 1315, 385)"/>
-        <line x1="1315" y1="331" x2="1315" y2="338" transform="rotate(330, 1315, 385)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(30, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(60, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(90, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(120, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(150, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(180, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(210, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(240, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(270, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(300, 1325, 432)"/>
+        <line x1="1325" y1="380" x2="1325" y2="387" transform="rotate(330, 1325, 432)"/>
       </g>
       
-      <!-- Hands (Initialized to 15:49:48) -->
-      <g transform="translate(1315,385)">
-        <!-- Hour Hand -->
+      <g transform="translate(1325,432)">
         <g>
           <animateTransform attributeName="transform" type="rotate" from="114.5" to="474.5" dur="43200s" repeatCount="indefinite"/>
-          <line x1="0" y1="0" x2="0" y2="-26" stroke="#E5E7EB" stroke-width="3.5" stroke-linecap="round"/>
+          <line x1="0" y1="0" x2="0" y2="-25" stroke="#E5E7EB" stroke-width="3.5" stroke-linecap="round"/>
         </g>
-        <!-- Minute Hand -->
         <g>
           <animateTransform attributeName="transform" type="rotate" from="298.8" to="658.8" dur="3600s" repeatCount="indefinite"/>
-          <line x1="0" y1="0" x2="0" y2="-40" stroke="#9CA3AF" stroke-width="2.5" stroke-linecap="round"/>
+          <line x1="0" y1="0" x2="0" y2="-38" stroke="#9CA3AF" stroke-width="2.5" stroke-linecap="round"/>
         </g>
-        <!-- Second Hand -->
         <g>
           <animateTransform attributeName="transform" type="rotate" from="288" to="648" dur="60s" repeatCount="indefinite"/>
-          <line x1="0" y1="8" x2="0" y2="-48" stroke="#06B6D4" stroke-width="1.5" stroke-linecap="round"/>
+          <line x1="0" y1="8" x2="0" y2="-46" stroke="#06B6D4" stroke-width="1.5" stroke-linecap="round"/>
         </g>
-        <!-- Center Dot -->
         <circle cx="0" cy="0" r="4" fill="#E5E7EB"/>
         <circle cx="0" cy="0" r="1.5" fill="#06B6D4"/>
       </g>
       
-      <!-- Digital Time & Date -->
-      <text x="1315" y="470" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="18" font-weight="700" fill="#E5E7EB" letter-spacing="1.5">15:49:48</text>
-      <text x="1315" y="488" text-anchor="middle" font-family="'Segoe UI','Inter',sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="0.8">TUESDAY, 07 JUL 2026</text>
+      <text x="1325" y="512" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="17" font-weight="700" fill="#E5E7EB" letter-spacing="1">03:49:48 <tspan font-size="12" fill="#06B6D4">PM</tspan></text>
+      <text x="1325" y="532" text-anchor="middle" font-family="'Segoe UI','Inter',sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="0.8">TUESDAY, 07 JUL 2026</text>
     </g>
   </g>
 
-  <!-- Server stack -->
   <g>
     <rect x="900" y="500" width="130" height="24" rx="6" fill="url(#panelFill)" stroke="url(#borderGrad)" stroke-width="1"/>
     <circle cx="913" cy="512" r="3" fill="#06B6D4"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></circle>
@@ -385,21 +345,20 @@
     <circle cx="913" cy="568" r="3" fill="#8B5CF6"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- Git branching graph -->
   <g fill="none" stroke="url(#lineGrad)" stroke-width="2">
-    <path d="M1080,520 H1400"/>
-    <path d="M1240,520 C1260,520 1260,478 1290,478 H1360 C1380,478 1380,520 1400,520"/>
+    <path d="M1080,580 H1400"/>
+    <path d="M1240,580 C1260,580 1260,565 1290,565 H1360 C1380,565 1380,580 1400,580"/>
   </g>
   <g fill="#3B82F6">
-    <circle cx="1100" cy="520" r="4"/>
-    <circle cx="1380" cy="520" r="4" fill="#8B5CF6"/>
+    <circle cx="1100" cy="580" r="4"/>
+    <circle cx="1380" cy="580" r="4" fill="#8B5CF6"/>
   </g>
   <g fill="#06B6D4">
-    <circle cx="1290" cy="478" r="4"/>
-    <circle cx="1360" cy="478" r="4"/>
+    <circle cx="1290" cy="565" r="4"/>
+    <circle cx="1360" cy="565" r="4"/>
   </g>
   <g fill="#8B5CF6">
-    <circle cx="1240" cy="520" r="4"/>
-    <circle cx="1400" cy="520" r="4"/>
+    <circle cx="1240" cy="580" r="4"/>
+    <circle cx="1400" cy="580" r="4"/>
   </g>
 </svg>
