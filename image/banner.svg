@@ -146,8 +146,6 @@
       <rect x="560" y="360" width="100" height="34" rx="17" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
       <text x="610" y="382" text-anchor="middle">shadcn/ui</text>
 
-      <rect x="670" y="360" width="80" height="34" rx="17" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
-      <text x="710" y="382" text-anchor="middle">Docker</text>
 
       <rect x="70" y="404" width="65" height="34" rx="17" fill="url(#panelFill)" stroke="url(#borderGrad)"/>
       <text x="102" y="426" text-anchor="middle">Git</text>
