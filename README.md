@@ -8,6 +8,8 @@
 
 <p>
   <a href="https://www.mrashed21.me/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&color=3B82F6" /></a>
+  <a href="https://www.linkedin.com/in/mrashed21//"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" /></a>
+  <a href="https://www.facebook.com/mrasheed21"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=white&color=1877F2" /></a>
   <a href="mailto:rashedjaman768@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&color=06B6D4" /></a>
   <a href="https://github.com/mrashed21"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6" /></a>
   <a href="https://wa.me/8801781131905"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=white&color=3B82F6" /></a>
@@ -24,6 +26,7 @@ I'm a **Full Stack (MERN) Developer** with hands-on experience building scalable
 I've worked across **ERP solutions, SaaS platforms, multi-vendor eCommerce, restaurant & POS software, bus booking systems, and admin dashboards** — shipping reliable products that improve real business operations and user experience.
 
 > [!NOTE]
+>
 > ## 👨‍💻 `developer_profile.ts`
 >
 > ```js
@@ -134,12 +137,12 @@ I've worked across **ERP solutions, SaaS platforms, multi-vendor eCommerce, rest
 ## 🌐 Let's Connect
 
 <div align="center">
-
-<a href="https://www.mrashed21.me/"><img src="https://img.shields.io/badge/Portfolio-mrashed21.me-3B82F6?style=flat-square&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/mrashed21"><img src="https://img.shields.io/badge/GitHub-mrashed21-8B5CF6?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="mailto:rashedjaman768@gmail.com"><img src="https://img.shields.io/badge/Email-rashedjaman768%40gmail.com-06B6D4?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/8801781131905"><img src="https://img.shields.io/badge/WhatsApp-%2B880%201781--131905-3B82F6?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-
+  <a href="https://www.mrashed21.me/"><img src="https://img.shields.io/badge/Portfolio-mrashed21.me-3B82F6?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/mrashed21"><img src="https://img.shields.io/badge/GitHub-mrashed21-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mrashed21/"><img src="https://img.shields.io/badge/LinkedIn-mrashed21-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/mrasheed21"><img src="https://img.shields.io/badge/Facebook-mrasheed21-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:rashedjaman768@gmail.com"><img src="https://img.shields.io/badge/Email-rashedjaman768%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/8801781131905"><img src="https://img.shields.io/badge/WhatsApp-%2B880%201781--131905-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 <br>
