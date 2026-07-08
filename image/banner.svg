@@ -330,8 +330,8 @@
         <circle cx="0" cy="0" r="1.5" fill="#06B6D4"/>
       </g>
       
-      <text x="1325" y="512" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="17" font-weight="700" fill="#E5E7EB" letter-spacing="1">03:49:48 <tspan font-size="12" fill="#06B6D4">PM</tspan></text>
-      <text x="1325" y="532" text-anchor="middle" font-family="'Segoe UI','Inter',sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="0.8">TUESDAY, 07 JUL 2026</text>
+      <text x="1325" y="512" text-anchor="middle" font-family="'SFMono-Regular',Consolas,monospace" font-size="17" font-weight="700" fill="#E5E7EB" letter-spacing="1">08:39:48 <tspan font-size="12" fill="#06B6D4">PM</tspan></text>
+      <text x="1325" y="532" text-anchor="middle" font-family="'Segoe UI','Inter',sans-serif" font-size="10" font-weight="600" fill="#9CA3AF" letter-spacing="0.8">Wednesday, 25 JUN 2025</text>
     </g>
   </g>
 
