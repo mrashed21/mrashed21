@@ -124,7 +124,7 @@ I've worked across **ERP solutions, SaaS platforms, multi-vendor eCommerce, rest
 ## 📊 GitHub Stats
 
 <div align="center">
- <img src="https://mrashed21-github-stats.vercel.app/api?username=mrashed21&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=9CA3AF&border_color=30363D&hide_border=false&v=1" width="49%" />
+ <img src="https://mrashed21-github-stats.vercel.app/api?username=mrashed21&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=9CA3AF&border_color=30363D&hide_border=false&v=2" width="49%" />
 
 <img src="https://mrashed21-github-stats.vercel.app/api/top-langs/?username=mrashed21&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=3B82F6&text_color=9CA3AF&border_color=30363D&hide_border=false&v=1" width="35%" />
 
